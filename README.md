@@ -2,4 +2,4 @@
 aws cloudwatch utils ☁️ 👀
 
 ## Usage
-Clone this repo and modify demo.py to implement your own CloudWatch logging logic!
+Clone this repo and modify *cloudwatch_demo.py* to implement your own CloudWatch logging logic!
